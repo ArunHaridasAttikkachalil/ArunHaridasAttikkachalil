@@ -7,6 +7,8 @@
 
 - 👨‍💻My projects are available at [https://github.com/ArunHaridasAttikkachalil](https://github.com/ArunHaridasAttikkachalil)
 
+- 📺 AR Furniture Project video [https://youtube.com/shorts/JAhwbVaNht0?feature=share](https://youtube.com/shorts/JAhwbVaNht0?feature=share)
+
 - 📫 How to reach me **arunattikkachalil18@gmail.com**
 
 <p align="left">
