@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Unity AR Furniture](https://github.com/ArunHaridasAttikkachalil/UnityAR)
 
-- 🌱 I’m currently learning **Unity AR**
+- 🌱 I’m currently learning **Unity AR & DSA**
 
 - 👨‍💻My projects are available at [https://github.com/ArunHaridasAttikkachalil](https://github.com/ArunHaridasAttikkachalil)
 
