@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h3 >I'm a passionate Unity Augmented Reality developer from India</h3>
 
-- 🔭 I’m currently working on [Unity AR Furniture](https://github.com/ArunHaridasAttikkachalil/UnityAR)
+- 🔭 I have made [Unity AR Furniture](https://github.com/ArunHaridasAttikkachalil/UnityAR)
 
 - 🌱 I’m currently learning **Unity AR & DSA**
 
